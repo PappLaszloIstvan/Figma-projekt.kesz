@@ -1,0 +1,28 @@
+body{
+    background-color: whitesmoke;
+}
+
+div[class*="col"] {
+    box-sizing: border-box;
+    border: 10px solid whitesmoke;
+    border-bottom: 20px solid whitesmoke;
+    border-radius: 10px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+div[class*="row"] {
+    border: 20px solid whitesmoke;
+}
+h1{
+    font-size: 1.5em;
+}
+#gép{
+border: none;
+height: 217px;
+border-radius: 0px;
+}
+img{
+    height: auto;
+    width: auto;
+}
